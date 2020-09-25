@@ -15,16 +15,25 @@ The expertise dictionary is generated continuously processing the projects given
 •	Common syntax 
 
   o	Object Modifiers(OM) - final, static
+  
   o	Access Modifiers(AM) - public, protected, private
+  
   o	Data Types(DT) - int, String, float, double etc
+  
   o	Return Type(RT) - void, Data Types
+  
   o	Other(O) - System, out, print, println, new, import,return etc
+  
 
 # Quantifying expertise of developer 
 
 Quantifying is done in two methods.
+
 •	Frequency of updates done to code base
+
   This is the basic measurement used in identifying the areas a developer has engaged in and the level of contribution. Social Coding Platforms allow us to retrieve the changes done to a certain file by a certain developer. These code fragments can be used in identifying the number of additions or changes done by a developer. This assessment is done based on the concept that level of expertise increases with experience. 
+  
 •	Usage Expertise
+
   Measuring usage expertise is done method wise. This is based on the concept that if a developer uses a method, he has an idea of what it does even though he’s not the one who implemented
  
