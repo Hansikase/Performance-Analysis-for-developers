@@ -11,7 +11,9 @@ An expertise area is the atomic level skills that a developer should have in wri
 The expertise dictionary is generated continuously processing the projects given as input to the system. This lets the dictionary to grow automatically avoiding manual insertion of expertise areas. A set of rules define these expertise areas. Considering Java as the domain and the standard naming conventions used in Java, the set of rules defined will be as follows. 
 
 •	Class - C, Interface - I, Method - m, Variable - v, Constant - CONST
+
 •	Common syntax 
+
   o	Object Modifiers(OM) - final, static
   o	Access Modifiers(AM) - public, protected, private
   o	Data Types(DT) - int, String, float, double etc
