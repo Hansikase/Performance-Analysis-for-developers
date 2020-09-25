@@ -1,4 +1,4 @@
-# Performance Analisys of Developers - Final Year Project 2017
+# Performance Analisys of Developers - Final Year Project UOM 2017
 
 This module identifies the expertise areas of a developer based on a pre-defined expertise dictionary and clasify/rank developer on each expertise area.
 
